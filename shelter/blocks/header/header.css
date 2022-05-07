@@ -1,0 +1,16 @@
+@import url(./__logo/header__logo.css);
+@import url(./__subtitle/header__subtitle.css);
+@import url(./__title/header__title.css);
+@import url(./__navbar/header__navbar.css);
+@import url(./__navbar-link/header__navbar-link.css);
+@import url(./__navbar-link/_selected/header__navbar-link_selected.css);
+
+.header {
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: space-between;
+  padding: 60px 40px 0 40px;
+  /* max-width: 1200px; */
+  /* width: 100vw - 80px; */
+}

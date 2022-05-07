@@ -1,0 +1,7 @@
+.header__navbar-link_selected {
+  text-decoration: underline;
+  text-decoration-color: #f1cdb3;
+  text-decoration-thickness: 3px;
+  text-underline-offset: 3px;
+  color: white;
+}

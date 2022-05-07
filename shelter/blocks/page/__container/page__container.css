@@ -1,0 +1,6 @@
+.page__container {
+  max-width: 1200px;
+  width: 100vw;
+  margin: 0 auto;
+  background: radial-gradient(#5b483a, #211f20);
+}

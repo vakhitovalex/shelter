@@ -1,0 +1,14 @@
+.header__navbar-link {
+  color: #cdcdcd;
+  font-family: "Arial";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 24px;
+  text-decoration-line: none;
+  padding-right: 35px;
+}
+
+.header__navbar-link:last-child {
+  padding-right: 0;
+}
