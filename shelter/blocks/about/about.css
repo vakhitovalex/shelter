@@ -1,0 +1,16 @@
+@import url(./__pets/about__pets.css);
+@import url(./__subtitle/about__subtitle.css);
+@import url(./__text/about__text.css);
+@import url(./__title/about__title.css);
+
+.about {
+  display: flex;
+  color: #545454;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 80px 40px 100px 40px;
+  background-color: white;
+  width: 1200px;
+  /* max-width: 1200px; */
+  /* width: 100vw - 80px; */
+}
