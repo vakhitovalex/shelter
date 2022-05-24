@@ -1,0 +1,7 @@
+.landing__text {
+  display: flex;
+  flex-direction: column;
+  align-self: start;
+  min-width: 460px;
+  margin-right: 42px;
+}

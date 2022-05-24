@@ -1,0 +1,14 @@
+@import url(./__title/landing__title.css);
+@import url(./__subtitle/landing__subtitle.css);
+@import url(./__text/landing__text.css);
+@import url(./__image/landing__image.css);
+@import url(./__button/landing__button.css);
+
+.landing {
+  display: flex;
+  color: white;
+  align-items: center;
+  padding: 60px 40px 0 40px;
+  max-width: 1200px;
+  /* width: 100vw - 80px; */
+}

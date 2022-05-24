@@ -6,9 +6,14 @@
   font-size: 15px;
   line-height: 24px;
   text-decoration-line: none;
-  padding-right: 35px;
+  margin-right: 35px;
+  cursor: default;
+}
+
+.header__navbar-link:hover {
+  cursor: pointer;
 }
 
 .header__navbar-link:last-child {
-  padding-right: 0;
+  margin-right: 0;
 }
