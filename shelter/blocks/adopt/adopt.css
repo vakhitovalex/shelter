@@ -1,0 +1,21 @@
+@import url(./__arrow/adopt__arrow.css);
+@import url(./__move/adopt__move.css);
+@import url(./__pet-card/adopt__pet-card.css);
+@import url(./__pet-image/adopt__pet-image.css);
+@import url(./__pet-name/adopt__pet-name.css);
+@import url(./__learn-button/adopt__learn-button.css);
+@import url(./__slider/adopt__slider.css);
+@import url(./__title/adopt__title.css);
+
+.adopt {
+  display: flex;
+  flex-direction: column;
+  color: #545454;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 80px 40px 100px 40px;
+  background-color: #f6f6f6;
+  width: 1200px;
+  /* max-width: 1200px; */
+  /* width: 100vw - 80px; */
+}
