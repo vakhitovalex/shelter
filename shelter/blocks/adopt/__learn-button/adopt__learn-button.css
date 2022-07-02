@@ -10,6 +10,7 @@
   border-radius: 100px;
   background-color: rgba(250, 250, 250);
   border: 2px solid #f1cdb3;
+  margin-bottom: 30px;
 }
 
 .adopt__learn-button:hover {

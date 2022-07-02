@@ -1,2 +1,13 @@
 .adopt__move {
+  margin-right: 53px;
+  border-radius: 100px;
+  background-color: transparent;
+  border: 2px solid #f1cdb3;
+  width: 52px;
+  height: 52px;
+  align-self: center;
+}
+
+.adopt__move:hover {
+  cursor: pointer;
 }

@@ -1,5 +1,8 @@
 @import url(./__arrow/adopt__arrow.css);
 @import url(./__move/adopt__move.css);
+@import url(./__move/_right/adopt__move_right.css);
+@import url(./__move/adopt__move_right.css);
+@import url(./__pets/adopt__pets.css);
 @import url(./__pet-card/adopt__pet-card.css);
 @import url(./__pet-image/adopt__pet-image.css);
 @import url(./__pet-name/adopt__pet-name.css);
