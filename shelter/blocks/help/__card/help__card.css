@@ -1,0 +1,10 @@
+.help__card {
+  margin-right: 120px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.help__card: nth-child(even) {
+
+}
