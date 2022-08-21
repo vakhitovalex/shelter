@@ -1,0 +1,10 @@
+.donation__title {
+  font-family: Georgia;
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 45px;
+  letter-spacing: 0.06em;
+  text-align: left;
+  width: 300px;
+  margin-bottom: 20px;
+}

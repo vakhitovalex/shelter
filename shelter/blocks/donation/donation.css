@@ -1,0 +1,20 @@
+@import url(./__about/__about.css);
+@import url(./__card/__card.css);
+@import url(./__credit-number/__credit-number.css);
+@import url(./__credit/__credit.css);
+@import url(./__puppy/__puppy.css);
+@import url(./__subtitle/__subtitle.css);
+@import url(./__text/__text.css);
+@import url(./__title/__title.css);
+
+.donation {
+  display: flex;
+  color: #545454;
+  align-items: center;
+  /* justify-content: space-evenly; */
+  padding: 80px 40px 100px 40px;
+  background-color: #f6f6f6;
+  width: 1200px;
+  /* max-width: 1200px; */
+  /* width: 100vw - 80px; */
+}

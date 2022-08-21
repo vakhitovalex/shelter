@@ -1,0 +1,9 @@
+.donation__credit {
+  display: flex;
+
+  background-color: #f1cdb3;
+  padding: 10px 0 10px 0;
+  width: 350px;
+  border-radius: 9px;
+  margin-bottom: 30px;
+}
