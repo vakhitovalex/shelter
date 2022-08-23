@@ -1,0 +1,13 @@
+@import url(./__contacts/__contacts.css);
+@import url(./__icon/__icon.css);
+@import url(./__link/__link.css);
+@import url(./__puppy/__puppy.css);
+@import url(./__subtitle/__subtitle.css);
+@import url(./__text/__text.css);
+
+.footer {
+  display: inline-grid;
+  margin: 0 40px 0 40px;
+  grid-template-columns: repeat(3, 300px);
+  gap: 160px;
+}
